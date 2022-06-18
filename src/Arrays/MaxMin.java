@@ -1,2 +1,5 @@
-package Arrays;public class MaxMin {
+package Arrays;
+
+public class MaxMin {
+
 }
